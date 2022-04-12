@@ -16,9 +16,10 @@
     "standard": "^16.0.4"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "4.17.2"
   },
-  "esLintConfg":{
+  "esLintConfg": {
     "extends": "./node_modules/standard/eslintrc.json"
   }
 }
